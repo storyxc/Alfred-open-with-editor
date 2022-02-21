@@ -31,3 +31,5 @@
 - v -> Visual Studio Code
 - t -> Typora
 - s -> Sublime Text
+
+![my_settings]https://io.storyxc.com/blog/image-20220221194201279.png
