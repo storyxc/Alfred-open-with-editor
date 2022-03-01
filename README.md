@@ -20,7 +20,7 @@
 
 ## Instructions:
 
-1. Import this workflow
+1. Import [this workflow](https://github.com/storyxc/Alfred-open-with-editor/releases/download/Alfred/Open.with.Editor.alfredworkflow)
 2. Use Alfred to search for local file or folder and select it
 3. Use the hotkey to select different editors to open it
 
