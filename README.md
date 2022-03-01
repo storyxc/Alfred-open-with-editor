@@ -2,7 +2,7 @@
 
 ## 使用说明：
 
-1. 导入此workflow
+1. 导入[此workflow](https://github.com/storyxc/Alfred-open-with-editor/releases/download/Alfred/Open.with.Editor.alfredworkflow)
 2. 使用Alfred搜索本地文件/文件夹并选中
 3. 根据设置不同编辑器的热键并使用热键打开选中的文件/文件夹
 
